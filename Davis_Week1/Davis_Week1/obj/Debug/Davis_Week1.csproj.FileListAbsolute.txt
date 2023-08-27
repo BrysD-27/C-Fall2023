@@ -1,0 +1,10 @@
+C:\Users\bryso\source\repos\Davis_Week1\Davis_Week1\bin\Debug\Davis_Week1.exe.config
+C:\Users\bryso\source\repos\Davis_Week1\Davis_Week1\bin\Debug\Davis_Week1.exe
+C:\Users\bryso\source\repos\Davis_Week1\Davis_Week1\bin\Debug\Davis_Week1.pdb
+C:\Users\bryso\source\repos\Davis_Week1\Davis_Week1\obj\Debug\Davis_Week1.csproj.AssemblyReference.cache
+C:\Users\bryso\source\repos\Davis_Week1\Davis_Week1\obj\Debug\Davis_Week1.Properties.Resources.resources
+C:\Users\bryso\source\repos\Davis_Week1\Davis_Week1\obj\Debug\Davis_Week1.csproj.GenerateResource.cache
+C:\Users\bryso\source\repos\Davis_Week1\Davis_Week1\obj\Debug\Davis_Week1.csproj.CoreCompileInputs.cache
+C:\Users\bryso\source\repos\Davis_Week1\Davis_Week1\obj\Debug\Davis_Week1.exe
+C:\Users\bryso\source\repos\Davis_Week1\Davis_Week1\obj\Debug\Davis_Week1.pdb
+C:\Users\bryso\source\repos\Davis_Week1\Davis_Week1\obj\Debug\Davis_Week1.DrivingCostCalculator_Form.resources
