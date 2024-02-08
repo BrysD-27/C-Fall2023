@@ -1,0 +1,16 @@
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.exe
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.deps.json
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.runtimeconfig.json
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.runtimeconfig.dev.json
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.dll
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.pdb
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmInvMaint.resources
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmNewItem.resources
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.GenerateResource.cache
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfoInputs.cache
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfo.cs
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.CoreCompileInputs.cache
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.dll
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.pdb
+D:\Documents\C#Fall2023\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.genruntimeconfig.cache
